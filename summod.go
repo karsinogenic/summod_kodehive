@@ -1,4 +1,4 @@
-package summod
+package summod1
 
 import "fmt"
 
